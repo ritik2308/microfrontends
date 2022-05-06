@@ -8,6 +8,10 @@ How to run the Appliction-
 
 3->Then finally run the container folder using npm start.
 
+NOTE ->
+
+Before running the apps use npm i to download the required packages .
+
 
 
 
