@@ -1,8 +1,13 @@
 # microfrontends
 
-In the project directory, you can run:
+How to run the Appliction-
 
-<!-- yarn start -->
+1->First start the blogs server using npm start.
 
-Launches the test runner in the interactive watch mode.
-See the section about running tests for more information.
+2->Then start the header server using npm start.
+
+3->Then finally run the container folder using npm start.
+
+
+
+
